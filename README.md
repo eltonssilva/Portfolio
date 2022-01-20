@@ -80,7 +80,7 @@
 * Status: **Finalizado**
 
 
-![bg opacity: 1 right:30% 100%](https://raw.githubusercontent.com/eltonssilva/Portfolio/main/FotoPlaca.jpg)
+![bg opacity: 1 right:30% 100%](./FotoPlaca.jpg)
 
 ---
 
