@@ -27,20 +27,19 @@
 
 #### Sistema de irrigação
 * Descrição
-  * Controle de fabricação de ração através de uma balança e roscas dosadoras
-* Cliente  **Fabricas de Ração**
+  * Sistema para controle de Irrigação inteligente com 4 Zonas individuais de controle.
   
 * Principais Requisitos
-  * Serial 485/ModBus RTU, Ethernet Wifi, IHM
+  * Serial, Ethernet Wifi, Comunicação MQTT
+  * Comunicação com Alexa e google Home
 
 * Microcontrolador  **ESP32**
 
 * Sistema Operacional: **FreeRTOS**
 
-* Status: **Desenvolvimento**
 
 
-![bg opacity: 1 right:25% 100%](./ESP32_RELE.jpg)
+![bg opacity: 1 right:25% 100%](./irrigacao300.jpg)
 
 ---
 
