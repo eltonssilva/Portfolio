@@ -1,18 +1,4 @@
----
-marp: true
-theme: base-theme
-color: #FF
-colorSecondary: #333
-backgroundColor: #fff
-paginate: false
-backgroundImage: url('https://img.freepik.com/vetores-gratis/tecnologia-meio-tom-moderno-fundo_1409-856.jpg?size=626&ext=jpg')
-opacity: 0.1
 
-
-header: 'Portfólio Desenvolvimento'
-footer: 'Prof. Elton de Sousa e Silva eltonss.eng@gmail.com'
-
----
 
 # Portfólio Desenvolvimento
 #### Eng. Elton de Sousa e Silva
