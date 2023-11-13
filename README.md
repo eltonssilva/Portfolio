@@ -6,6 +6,80 @@
 
 ---
 
+#### Sistema para contagem de pessoas em transportes publicos (Cidades Inteligentes)
+
+* Descrição
+  * Harware para contagem de pessoas em transportes publicos atraves do sinal de wifi e bluetooth de celulares dos usuarios
+  dos onibus.
+
+
+* Cliente  **Iluflex (https://www.green4t.com/)**
+  
+* Principais Requisitos
+  * Contagem de pessoas via Sniffer BLE e WiFi
+
+* Microcontrolador  **STM-32**
+
+* Linguagem: **C++**
+
+* Status: **Finalizado**
+
+
+
+
+---
+
+#### Sistema Completo para Automação Residencial
+* Descrição
+  * Sistema completo para automação residencial inteligente, com desenvolvimento de Hardware e Software.
+
+  * Hardware e Software Desenvolvido
+  
+  1. Placa de Controle Geral da Residencia (Master)
+  2. Placa de Controle Infravermelhor
+  1. Placa de Controle de iluminação
+  1. Placa de Controle de Cargas Pesadas (Motores e bombas)
+  1. Placa de Controle de Portão
+  1. Placa de Controle de lampadas dimerizaveis.
+
+
+* Cliente  **Iluflex (https://www.iluflex.com.br/)**
+  
+* Principais Requisitos
+  * Comunicação via WIFI (Rede Mesh) com protocolo proprietario, e comunicação via 485 com protocolo também por nos.
+
+* Microcontrolador  **ESP32-S2, ESP32-C3, ESP32-S3, PIC**
+
+* Sistema Operacional: **FreeRTOS**
+
+* Status: **Finalizado**
+
+
+![bg opacity: 1 right:25% 100%](./Master_Iluflex.jpeg)
+
+---
+
+#### Sistema Completo para Automação Residencial
+* Descrição
+  * Sistema completo para automação residencial inteligente, com desenvolvimento de Hardware e Software.
+
+
+* Cliente  **Iluflex (https://www.iluflex.com.br/)**
+  
+* Principais Requisitos
+  * Comunicação via WIFI (Rede Mesh) com protocolo proprietario, e comunicação via 485 com protocolo também por nos.
+
+* Microcontrolador  **ESP32-S2, ESP32-C3, ESP32-S3, PIC**
+
+* Sistema Operacional: **FreeRTOS**
+
+* Status: **Finalizado**
+
+
+![bg opacity: 1 right:25% 100%](./ESP32_RELE.jpg)
+
+---
+
 #### Maquina de Ração
 * Descrição
   * Controle de fabricação de ração através de uma balança e roscas dosadoras
