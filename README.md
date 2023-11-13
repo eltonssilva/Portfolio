@@ -6,6 +6,25 @@
 
 ---
 
+#### Sistema para monitoramento e controle de caminhões coletores de lixo (Cidades Inteligentes). 
+
+* Descrição
+  * Sistema utilizando o Linux Embarcado (Yocto Project) para monitoramento de caminhão coletores de lixo pela Rede CAN.
+
+
+* Cliente  **Iluflex (https://www.green4t.com/)**
+  
+* Principais Requisitos
+  * Linux Embarcado, Rede CAN,  4G
+
+* Sistema  **Raspberry PI**
+
+* OS: **Linux Embarcado**
+
+* Status: **Finalizado**
+
+---
+
 #### Sistema para contagem de pessoas em transportes publicos (Cidades Inteligentes)
 
 * Descrição
@@ -24,8 +43,25 @@
 
 * Status: **Finalizado**
 
+---
+
+#### Sistema para contagem de pessoas em transportes publicos (Cidades Inteligentes)
+
+* Descrição
+  * Harware para contagem de pessoas em transportes publicos atraves do sinal de wifi e bluetooth de celulares dos usuarios
+  dos onibus.
 
 
+* Cliente  **Iluflex (https://www.green4t.com/)**
+  
+* Principais Requisitos
+  * Contagem de pessoas via Sniffer BLE e WiFi
+
+* Microcontrolador  **STM-32**
+
+* Linguagem: **C++**
+
+* Status: **Finalizado**
 
 ---
 
