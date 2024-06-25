@@ -32,6 +32,8 @@
 
 * Status: **Finalizado**
 
+<img src="./ir_pcba.png" alt="PCBA" width="200"/>
+
 ---
 
 #### Sistema para monitoramento e controle de caminhões coletores de lixo (Cidades Inteligentes). 
