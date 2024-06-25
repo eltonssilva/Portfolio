@@ -6,6 +6,34 @@
 
 ---
 
+#### Addon para Home Assistant e PCBA para Automação Residencial.
+
+* Descrição
+  * O Addon da AutoDomo para acesso remoto e controle da alexa ao sistema Home Assistante
+
+
+* link  **Addon AutoDomo (https://github.com/eltonssilva/ha_autodomo)**
+  
+* Principais Requisitos
+  * Linux Embarcado, Rede CAN,  4G, AWS
+
+* Caracteristicas AWS
+  * Banco de dados DynamoDB
+  * API Gateway AWS
+  * Lambda AWS
+  * Login Auth0
+  * EC2
+
+* Placa de Circuito Impresso
+  * Desenvolvimento de Firmware e Hardware
+
+* Linguagem (Framework)
+  * NodeJS/JavaScript/Python
+
+* Status: **Finalizado**
+
+---
+
 #### Sistema para monitoramento e controle de caminhões coletores de lixo (Cidades Inteligentes). 
 
 * Descrição
