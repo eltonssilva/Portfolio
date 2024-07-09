@@ -1,11 +1,3 @@
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-
-
-
 # Elton de Sousa e Silva 
 
 Engenheiro Eletricista/Automação
