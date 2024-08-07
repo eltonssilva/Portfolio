@@ -183,7 +183,7 @@
 
 ---
 
-#### Inspeção de Solda
+<!-- #### Inspeção de Solda
 * Descrição
   * Robo Vertical para inspeção de Solda
 
@@ -200,7 +200,7 @@
 
 ![bg opacity: 1 right:35% 100%](./solda.png)
 
----
+--- -->
 
 
 
