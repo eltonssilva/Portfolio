@@ -54,8 +54,8 @@ Domínio de diversas ferramentas de projetos e de gestão,incluindo as boas prá
 ### Iluflex 
 #### Engenheiro de Projeto e Desenvolvimento
 ##### 08/2024 a Atual
-- Responsável pelo gestão do contrato do cliente junto a contratada, fiscalização de obras e projetos acompanhamento
-do avanço da obra para garantia do escopo contratado e etc.
+- Responsável pelo gestão do contrato do cliente junto a contratada, fiscalização de obras e projetos, acompanhamento
+do avanço fisico das obras, controle de plano de ação, analisar proposta técnica em processos de contratação e etc.
 - Principais Projetos
   * SPDA do Patio de Santa Inês e Maraba
   * Rede de Média Tensão de Maraba e Carajas
