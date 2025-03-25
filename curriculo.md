@@ -51,20 +51,20 @@ Domínio de diversas ferramentas de projetos e de gestão,incluindo as boas prá
 
 ## Experência Profissional
 ---
-### Iluflex 
-#### Engenheiro de Projeto e Desenvolvimento
+### PROGEN 
+#### Engenheiro Eletricista/Automação
 ##### 08/2024 a Atual
 - Responsável pelo gestão do contrato do cliente junto a contratada, fiscalização de obras e projetos, acompanhamento
 do avanço fisico das obras, controle de plano de ação, analisar proposta técnica em processos de contratação e etc.
 - Principais Projetos
-  * SPDA do Patio de Santa Inês e Maraba
+  * SPDA do Patio de Santa Inês, Maraba, Açailandia, São Pedro e Vitoria do Mearim.
   * Rede de Média Tensão de Maraba e Carajas
-  * SPCI do Patio de Santa Inês
+  * Automação da ETE de Santa Inês.
 
 
 ### Iluflex 
 #### Engenheiro de Projeto e Desenvolvimento
-##### 01/2023 a 08/2023
+##### 01/2023 a 08/2024
 - Desenvolvimento de projetos e soluções em sistema embarcados e internet das coisas para automação residencial, predial e industrial
 * Tecnologias e Protocolos Utilizados 
   * AWS, Alexa Skill, API GateWay, EC2, FireBase Real Time
