@@ -60,6 +60,7 @@ do avanço fisico das obras, controle de plano de ação, analisar proposta téc
   * SPDA do Patio de Santa Inês, Maraba, Açailandia, São Pedro e Vitoria do Mearim.
   * Rede de Média Tensão de Maraba e Carajas
   * Automação da ETE de Santa Inês.
+  * Iluminação do Pátio de Açailandia e Maraba;.
 
 
 ### Iluflex 
