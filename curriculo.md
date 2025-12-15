@@ -19,7 +19,7 @@ Domínio de diversas ferramentas de projetos e de gestão,incluindo as boas prá
 |      |       | 
 | ------------ | ------------- | 
 | **Instituição** | Universidade Estadual do Maranhão    |
-| **Curso**       | Engenharia da Computação    | 
+| **Curso**       | Engenharia da Computação e Sistemas   | 
 | **Ano**       | 2020          | 
 
 ### 2. Especialização
@@ -36,7 +36,7 @@ Domínio de diversas ferramentas de projetos e de gestão,incluindo as boas prá
 |      |       | 
 | ------------ | ------------- | 
 | **Instituição** | Universidade Federal do Maranhão    |
-| **Curso**       | Engenharia Elétrica    | 
+| **Curso**       | Engenharia Elétrica / Automação  | 
 | **Ano**       | 1999 - 2006         | 
 
 ### 4. Técnico
@@ -54,23 +54,49 @@ Domínio de diversas ferramentas de projetos e de gestão,incluindo as boas prá
 ### PROGEN 
 #### Engenheiro Eletricista/Automação
 ##### 08/2024 a Atual
-- Responsável pelo gestão do contrato do cliente junto a contratada, fiscalização de obras e projetos, acompanhamento
-do avanço fisico das obras, controle de plano de ação, analisar proposta técnica em processos de contratação e etc.
+- Atuo na fiscalização e acompanhamento das contratadas, garantindo que as atividades sejam executadas conforme os procedimentos Vale, normas técnicas e obrigações contratuais. Realizo orientação técnica em campo, verificando o cumprimento dos requisitos de segurança e contribuindo para o fortalecimento das ferramentas de SSMA e da percepção de risco. Identifico e trato desvios relacionados ao ambiente de trabalho, alinhado às práticas de 5S.
+
+- No âmbito técnico, apoio a execução e análise de serviços de automação e engenharia elétrica, incluindo interpretação de projetos, acompanhamento de testes e comissionamentos, avaliação de instalações e diagnóstico de falhas. Contribuo para a confiabilidade dos sistemas e para a eficiência das operações por meio de soluções técnicas e melhorias contínuas.
+
 - Principais Projetos
   * SPDA do Patio de Santa Inês, Maraba, Açailandia, São Pedro e Vitoria do Mearim.
   * Rede de Média Tensão de Maraba e Carajas
   * Automação da ETE de Santa Inês.
   * Iluminação do Pátio de Açailandia e Maraba;.
+  * Automação da Torre de Embarque/Desembarque Pier III (Vale Porto)
+  * Sistema de Abastecimento de Cobustivel (Vale TFPM)
 
 
 ### Iluflex 
 #### Engenheiro de Projeto e Desenvolvimento
-##### 01/2023 a 08/2024
+##### 06/2023 a 08/2024
 - Desenvolvimento de projetos e soluções em sistema embarcados e internet das coisas para automação residencial, predial e industrial
 * Tecnologias e Protocolos Utilizados 
   * AWS, Alexa Skill, API GateWay, EC2, FireBase Real Time
   * Microcontroladores (Ex. ESP8266, ESP32, etc)
   * Protocolos IOT (ZigBee, MQTT, LoraWan e etc).
+
+---
+
+### GREEN4T  
+**Especialista em IoT**  
+*04/2022 – 06/2023*
+
+- Desenvolvimento de projetos e soluções em **sistemas embarcados e Internet das Coisas**, com foco em **cidades inteligentes, mobilidade urbana e Data Centers**  
+- Atuação em arquitetura de hardware, firmware e comunicação de dados para ambientes críticos  
+
+**Tecnologias:**  
+- Microcontroladores: ESP8266, ESP32, PIC, STM32  
+- Protocolos: MQTT, ZigBee, CAN, LoRaWAN  
+- Redes CAN (SAE J1939)  
+- Linux Embarcado  
+
+**Principais Projetos:**  
+- Monitoramento de caminhões de limpeza pública utilizando dispositivos conectados à **rede CAN (SAE J1939)**  
+- Sistema de gerenciamento da limpeza pública via **LoRaWAN**  
+- Desenvolvimento de **hardware e firmware** para monitoramento climático de alta precisão em **Data Centers e Salas Cofre**  
+
+---
 
 ### Aguiar Engenharia
 #### Engenheiro de Projeto e Desenvolvimento
@@ -80,6 +106,8 @@ do avanço fisico das obras, controle de plano de ação, analisar proposta téc
   * PLC (Rockwell e Schneider)
   * Microcontroladores (Ex. ESP8266, ESP32, PIC, 8051 e etc)
   * Protocolos IOT (ZigBee, MQTT, LoraWan e etc).
+
+---
 
 ### Universidade Pitágoras (Grupo Kroton)
 #### Professor de Engenharia Elétrica
@@ -91,6 +119,8 @@ do avanço fisico das obras, controle de plano de ação, analisar proposta téc
   * Sistema Pneumático;
   * Microcontrolador;
   * Sistemas Embarcados e programação de dispositivos IOT.
+
+---
 
 ### Festo do Brasil
 #### Engenheiro Automação e Vendas
@@ -105,6 +135,8 @@ automação industrial.
   * Heineken (Bebidas)
   * Votorantim Cimentos
 
+---
+
 ### Ductor Implantação de Projetos Ltda
 #### Engenheiro Eletricista / Eletrônico
 ##### 03/2013 a 12/2014
@@ -114,6 +146,8 @@ do avanço da obra para garantia do escopo contratado e etc.
   * Iluminação do Patio Ferroviário em São Luis
   * Iluminação do Patio Ferroviário em Carajás
   * Automação da duplicação da Ferrovia de Carajás
+
+---
 
 ### Bemon Engenharia e Montagens Ltda
 #### Gestor de Contratos
@@ -127,6 +161,8 @@ em Parauapebas-PA.
   * Acompanhamento físico e financeiro da obra
   * Reunião com clientes e outros
 
+---
+
 ### Forship Engenharia S/A
 #### Coordenador de Comissionamento
 ##### 05/2011 a 01/2012
@@ -137,11 +173,14 @@ eficaz para garantir a entrega dos sistemas nos prazos planejados.
   * Automação da duplicação da ferrovia carajás.
   * Automação de sistemas elétricos e iluminação da ferrovia.
 
+---
+
 ### Consulgal do Brasil Ltda
 #### Fiscal do Cliente (Engenheiro de Instrumentação)
 ##### 01/2011 a 05/2011
 - Acompanhamento e Fiscalização da Obra (Owner's Engineer) Termoelétrica MPX no que envolve instrumentação e automação, preparação de relatórios semanais e mensais, envios de documentos com solicitação de investigação e não conformidades, reuniões com a construtora (Empreiteira) da obra.
 
+---
 
 ### Honeywell do Brasil Ltda.
 #### Lider de Construção
@@ -160,8 +199,10 @@ produtivos;
     * Equipamentos elétricos (Transformadores, Chave de transferência etc);
     * Transmissores de temperatura, válvulas, medidores de fluxo e etc.
 
-## Conhecimentos
 ---
+
+## Conhecimentos
+
 ### Certificação
 * PMP Project Management Professional - Licença número: 1738905
 * FCP (Furukawa Certified Professional)
