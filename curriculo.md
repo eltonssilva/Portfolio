@@ -4,7 +4,7 @@ Engenheiro Eletricista/Automação
 
 Nascimento: (05/05/1979)<br>
 Cidade:    São Luis/MA <br>
-Fone1:    _+55 (98) 99168 - 3770 <br>
+Fone:    +55 (98) 99168 - 3770 <br>
 e-mail:  eltonss.eng@gmail.com<br>
 
   
